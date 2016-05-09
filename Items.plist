@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Items</key>
+	<dict>
+		<key>Weapons</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Hand</string>
+				<key>ID</key>
+				<integer>0</integer>
+				<key>Damage</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sword</string>
+				<key>ID</key>
+				<integer>1</integer>
+				<key>Damage</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Iron Sword</string>
+				<key>ID</key>
+				<integer>2</integer>
+				<key>Damage</key>
+				<integer>15</integer>
+			</dict>
+		</array>
+		<key>Armor</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Leather Armor</string>
+				<key>ID</key>
+				<integer>100</integer>
+				<key>Defense</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Iron Armor</string>
+				<key>ID</key>
+				<integer>101</integer>
+				<key>Defense</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Iron Sword</string>
+				<key>ID</key>
+				<integer>102</integer>
+				<key>Defense</key>
+				<integer>15</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
